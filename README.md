@@ -1,5 +1,6 @@
-## Hi there 👋
+## Olá 👋
 
+Me chamo João, tenho 24 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 <!--
 **Jaaum1/Jaaum1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
